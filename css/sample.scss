@@ -334,7 +334,6 @@ header{
     .news_lists{
 
       li{
-        @include fontsize(14);
         margin-bottom: 20px;
 
         span{
@@ -378,7 +377,7 @@ header{
             }
         }
         .news_li{
-            @include fontsize(14);
+            @include fontsize(15);
             
             li{
                 list-style:none;
